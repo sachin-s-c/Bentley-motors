@@ -1,0 +1,302 @@
+.mainheader{
+    width: 100%;
+    height: 752px;
+}
+
+.siteheader{
+    width: 100%;
+    height: 101px;
+    background: white;
+    
+}
+body{
+    margin: 0;
+}
+.navigationbarcontainer{
+    width:1366px;
+    margin: auto;
+    background:#eee;
+    height: 100% ;
+    background: white;
+}
+.bentleylogo{
+    height: 58px;
+    width: 116px;
+   
+
+}
+.logo{
+    height: 58px;
+    width: 116px;
+    margin: 30px;
+}
+.navabar-nav-container{
+    width: 100%;
+    height: 75px;
+    line-height: 75px;
+    padding: opx 100px;
+   position: fixed;
+    background-image:white;
+}
+nav ul{
+    padding-left: 277px;
+    margin-top: -26px;
+    
+    
+}
+nav li{
+    display:inline-block;
+    list-style: none;
+}
+nav li a{
+    font-size: 16px;
+    text-transform: capitalize;
+    padding: 0px 30px;
+    color: rgb(144, 141, 141);
+    text-decoration: none;
+    font-family: "Noto Sans",sans-serif;
+    
+}
+.request-box{
+    
+    display: inline-block;
+   font-family: "BentleySemiBold", arial, helvetica, sans-serif;;
+    font-size: 14px;
+    text-decoration: none !important;
+    background: transparent;
+    min-width: 200px;
+    max-width: 100%;
+   background-color: #335B4C;
+    text-transform: uppercase;
+    text-align: center;
+    white-space: normal;
+    color: white;
+    border: 0px solid black;
+    margin: -10;
+}
+.headermainimage{
+    width: 100%;
+    height: 652px;
+}
+
+.mainheaderimg{
+    width: 100%;
+    height: 651.08px;
+    object-fit: cover;
+}
+.content-wrapper{
+    position: relative;
+    
+    padding-top: 179px;
+    padding-left: 83px;
+
+}
+.content{
+    height: 379.8px;
+}
+ .firstimg2-1{
+    width: 50%;
+    float: left;
+    height: 100%;
+    
+}
+
+.twoimagecontainer::after{
+    content: "";
+    display: table;
+    clear: both;
+    width: 100%;
+    height: 100%;
+
+}
+.footer{
+    
+    padding: 20px ;
+    height: 582.83px;
+    max-width: 1276px;
+    margin: auto;
+    padding-left: 161px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.container{
+    height: 336.4px;
+
+}
+.foot-menu{
+    float: left;
+    width: 25%;
+
+  
+}
+.foot-menu{
+    font-size: 16px;
+   font-family: entleySemiBold,arial,helvetica,sans-serif;
+   font-weight: 400;
+   
+
+   
+  
+}
+.foot-menu ul{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+.foot-menu ul li a{
+    font-size: 18px;
+    line-height: 36px;
+    color: rgb(144, 141, 141);
+    text-decoration: none;
+}
+.socialmediacontainer{
+    margin-top: 30px;
+    margin-left: -41px;
+
+}
+.socialmedialinks{
+    margin: 0;
+    padding: 0px;
+
+}
+.socialmedialinks li{
+    list-style: none;
+    display: inline-block;
+}
+.socialmedialinks li a{
+    font-size: 18px;
+    margin-right: 30px;
+
+}
+.last-div{
+    width: 1276px;
+    padding: 0px  0 0 0;
+    margin :auto auto  0px auto;
+    height: 170.95px;
+
+    
+}
+.servicecontainer{
+    margin-top: 30px;
+    margin-left: -41px;
+
+}
+.servicecontainer{
+  
+    padding: 0px;
+
+}
+.servicecontainer li{
+    list-style: none;
+    display: inline-block;
+}
+.servicecontainer li a{
+    font-size: 18px;
+    margin-right: 30px;
+    text-decoration: none;
+}
+
+.text-sect{
+   font-size: 16px;
+   font-weight: 400;
+   color: #4c4d4f;
+   font-family: BentleyLight,arial,helvetica,sans-serif;
+   line-height: 18px;
+
+}
+.final-listcontainer{
+    margin-top: 30px;
+    margin-left: -41px;
+
+}
+.final-listcontainer{
+  
+    padding: 0px;
+
+}
+.final-listcontainer li {
+    list-style: none;
+    display: inline-block;
+}
+.final-listcontainer li a{
+    font-size: 18px;
+    margin-right: 10px;
+    text-decoration: none;
+}
+
+  
+  .headermainimage{
+    position: relative;
+  }
+
+  
+.by_button-primary{
+    margin: 12px;
+    box-sizing: border-box;
+    display: block;
+    color: #eee;
+    border: 0px solid;
+    height: 20px;
+    width: 383px;
+    display: flex;
+    flex-direction: column;
+    background-color: #335b4c;
+
+    font-family: "BentleySemiBold", arial, helvetica, sans-serif;
+
+    padding: 20px;
+    padding-right: 53px;
+    padding-top: 12px;
+    padding-bottom: 32px;
+    align-items: center;
+    font-weight: 100px;
+    
+}
+.by_button_secondary-1{
+    margin: 12px;
+    box-sizing: border-box;
+    display: block;
+    padding: 20px ;
+    border: 2px solid;
+    height: 20px;
+    width: 383px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-right: 53px;
+    padding-top: 12px;
+    padding-bottom: 32px;
+    font-family: "BentleySemiBold", arial, helvetica, sans-serif;
+    text-transform: capitalize;
+    color: #eee;
+    border-color: #eee;
+
+
+
+}
+.twoimagecontainer{
+    position: relative;
+}
+.own{
+    position: absolute;
+    bottom: 323px;
+    right: 1380px;
+    background-color: white;
+    color:  #999393;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: "BentleyLight", arial, helvetica, sans-serif;
+    line-height: normal;
+}
+.pre-own{
+    position: absolute;
+    bottom: 317px;
+    right: 596px;
+    background-color: #ede2e2de;
+    color: #999393;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: "BentleyLight", arial, helvetica, sans-serif;
+    line-height: normal;
+}
+
